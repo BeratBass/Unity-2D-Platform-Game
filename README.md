@@ -42,4 +42,4 @@ Unity üzerinde **2D oyun mekaniği**, **animasyon**, ve **mobil optimizasyon** 
 ---
 
 👨‍💻 **Developer:** Berat Baş  
-📧 [LinkedIn](https://www.linkedin.com/in/beratbas) | [GitHub](https://github.com/beratbas)
+📧 [LinkedIn](www.linkedin.com/in/berat-baş-6a91a3274) | [GitHub](https://github.com/BeratBass)
