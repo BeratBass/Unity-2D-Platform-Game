@@ -23,8 +23,8 @@ Amacınız engellerden kaçarak en yüksek skoru elde etmektir!
 ---
 
 ## 📸 Ekran Görüntüsü
-*(Eğer varsa buraya ekle 👇)*  
-![Gameplay Screenshot](./screenshot.png)
+
+![Gameplay Screenshot](./gameplay.gif)
 
 ---
 
